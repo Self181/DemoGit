@@ -5,6 +5,8 @@ currenttime = time.strftime('%H:%M:%S')
 print(str(date),str(currenttime))
 
 
+#sample class example
+print("Below is the sample example pf class")
 class mobile:
     def __init__(self,name,model):
         self.model = model
